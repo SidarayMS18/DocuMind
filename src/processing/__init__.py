@@ -1,0 +1,1 @@
+"""Document processing module for PDF ingestion and text extraction."""
